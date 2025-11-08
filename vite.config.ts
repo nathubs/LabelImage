@@ -18,7 +18,7 @@ export default defineConfig({
   ],
   base: "/label-image/",
   build:{
-    outDir:"dist",
+    outDir:"./docs",
   },
   resolve: {
     alias: {
